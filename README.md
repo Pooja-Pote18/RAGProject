@@ -17,4 +17,4 @@ Tech Stack: Python, Jupyter Notebook, Scikit-learn, Pandas, Matplotlib, Seaborn
 **Result:**
 ✅ Accurate prediction of survival with clear data-driven insights.
 
-**The Accuracy of the Model is: 80.42**
+✅ Model Accuracy: 80.42%
